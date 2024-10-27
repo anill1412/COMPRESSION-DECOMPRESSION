@@ -27,9 +27,13 @@ Click on the "Choose File" button under the decompression section.
 Select the previously compressed .zlib file.
 After decompression, a link to download the decompressed file will appear.
 Installation:
+
 1.git clone <repository-url>
+
 2.cd <project-directory>
+
 3.npm install
+
 before "npm start " install the following:
       npm install stream-browserify
       npm install @emotion/react @emotion/styled
